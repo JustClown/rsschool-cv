@@ -1,8 +1,8 @@
 ## Aleksey Rakov
 
-**Location:** Saint-Petersburg, Russia
-**Email:** lizadondysh@icloud.com
-**Github:** https://github.com/JustClown
+**Location:** Saint-Petersburg, Russia  
+**Email:** alex77791@gmail.com  
+**Github:** https://github.com/JustClown  
 **Telegram:** https://t.me/AlexRakov1
 
 ### About myself:
@@ -35,5 +35,5 @@ I haven't work experience before
 
 ### Languages:
 
-**Russian:** native
+**Russian:** native  
 **English:** А1
